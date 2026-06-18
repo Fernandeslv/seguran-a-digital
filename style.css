@@ -120,3 +120,7 @@ body{
 label{
     font-size: 20px;
 }
+.media{
+    background-color: #FAF408;
+    width: 50%;
+}
